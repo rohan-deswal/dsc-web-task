@@ -65,6 +65,7 @@ body{
 .profile-image{
 	margin: auto;
 	padding-top: 5em;
+	vertical-align: center;
 }
 .profile-image img{
 	border: 10px solid #AE358C;
