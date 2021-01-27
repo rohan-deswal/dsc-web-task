@@ -51,7 +51,7 @@ body{
 .about-me-content{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	animation: 1s ease-out 0s 1 slide_in;
+/* 	animation: 1s ease-out 0s 1 slide_in; */
 }
 .profile-info{
 	color: white;
@@ -116,7 +116,7 @@ body{
 .skills-list-item:hover{
 	color: yellow;
 }
-
+/* 
 @keyframes slide_in {
   0% {
     transform: translateX(-100%);
@@ -126,7 +126,7 @@ body{
     transform: translateX(0);
     background: black;
   }
-}
+} */
 @keyframes back_blink{
 	0%{
 		background: white;
